@@ -1,0 +1,12 @@
+.git/
+.idea/
+.playgound/
+tests/.pytest_cache
+
+requirements-dev.txt
+README.md
+.DS_Store
+.dockerignore
+.gitignore
+Dockerfile
+__pycache__/

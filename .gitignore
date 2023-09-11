@@ -1,0 +1,16 @@
+# Git related
+.git/
+.github/
+
+# Python related
+__pycache__/
+*.pyc
+*.pyo
+
+# Directories to exclude
+deploy/
+playground/
+
+# Other
+.DS_Store
+.idea/
