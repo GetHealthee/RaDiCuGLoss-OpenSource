@@ -64,4 +64,6 @@ The development of the RaDiCuGLoss algorithm involves a series of steps and help
 
 5. **Normalization**: Finally, the raw RaDiCuGLoss value is normalized by comparing it with the maximum possible RaDiCuGLoss value (obtained by sorting the true relevance set perfectly). The function for this is `nrdcgl`, which includes the normalization process.
 
+## License
 
+RaDiCuGLoss if free to use under the [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html)
