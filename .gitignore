@@ -1,6 +1,6 @@
 # Git related
 .git/
-.github/
+.github/workflows/
 
 # Python related
 __pycache__/
