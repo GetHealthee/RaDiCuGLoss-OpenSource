@@ -18,5 +18,5 @@ pytest==7.3.1
 setuptools==67.8.0
 six==1.16.0
 tomli==2.0.1
-Werkzeug==2.2.3
+Werkzeug==3.0.1
 wheel==0.38.4
